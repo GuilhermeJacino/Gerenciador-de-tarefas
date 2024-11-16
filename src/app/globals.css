@@ -1,0 +1,26 @@
+
+h1 {background-color: rgb(239, 234, 227);
+  font-size: 35px;
+  text-align: center;
+  margin: 10px;
+  padding: 3px;
+  border:  3px solid black;
+  }
+
+body {
+  background-color: beige;
+}
+input {
+  width: 300px;
+  height:  40px;
+  font-size: large;
+  border: 3px solid black
+}
+
+button {
+  width: 200px;
+  height: 46px;
+  margin: 3px;
+  font-size: large;
+  border: 3px solid black;
+}
